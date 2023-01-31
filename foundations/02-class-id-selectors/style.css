@@ -1,0 +1,19 @@
+.main {
+    background-color: rgb(231, 171, 181);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.extra {
+    font-size: 24px;
+}
+
+#blue {
+    color:blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
