@@ -1,0 +1,17 @@
+/* Chaining by two class selectors */
+
+/* .container .text {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* Chaining by type and class selector */
+
+div .text {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center; 
+}
